@@ -76,7 +76,7 @@ This project models a realistic energy supply chain using hourly time-series dat
 
 *Implication: Operational flexibility has a huge advantage on the eventual maximum storage size required*<br /><br />
 
-**4)	Recommendations & Next Steps**<br />
+**4)	Recommendations**<br />
 -----------------------------
 **Answer to main business question:**<br />
 *Hydrogen injection can substantially reduce required storage capacity when perofrming within a system that operates under the right characteristics while guaranteeing operational flexibility.*<br /><br />
