@@ -37,11 +37,13 @@ This project models a realistic energy supply chain using hourly time-series dat
 - PV generation (solar radiation–based)<br />
 - Electricity demand profiles<br />
 - Natural gas demand profiles<br /><br />
+
 **Model features**<br />
 - Electrolyzer & fuel cell conversion logic<br />
 - Hydrogen storage inventory tracking<br />
 - Injection constraints linked to gas demand<br />
 - Priority-based flow decisions (export → injection → storage)<br /><br />
+
 **Tools & Methods**<br />
 - Python (simulation logic, scenario execution)<br />
 - Excel (simulation logic, scenario execution)<br />
